@@ -30,7 +30,7 @@ iframe {
 body {
   background-color: lightblue;
 }
-@media screen and (max-width: 200px) {
+@media screen and (max-width: 320px) {
   div {
     width: 250px;
     margin: 10px auto;
