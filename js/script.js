@@ -6,5 +6,5 @@ run.addEventListener('mouseover', () => {
 });
 
 document.querySelector('.yes').addEventListener('click', () => {
-  alert('YEEEEEEEEEEEEES');
+  alert('Ուռաաաաաաա դե կիրակի կսպասեմ 😂');
 });
