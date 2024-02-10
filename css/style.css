@@ -14,3 +14,8 @@ button {
 h2 {
   text-align: center;
 }
+@media screen and (min-width: 200px) {
+  div {
+    width: 250px;
+  }
+}
