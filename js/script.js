@@ -21,12 +21,16 @@ run.addEventListener('mouseover', () => {
 });
 
 document.querySelector('.yes').addEventListener('click', () => {
+<<<<<<< HEAD
   iframe.src = 'https://giphy.com/embed/RLDl4nXpaKNGtsMRH6';
   h2.innerHTML = 'Այ ապրես 😊';
 
   setTimeout(() => {
     alert('Ուռաաաաաա դե կսպասեմ ❤️');
   }, 1000);
+=======
+  alert('Ուռաաաաաաա դե կիրակի կսպասեմ 😂');
+>>>>>>> 340ad560835d8772750b0fcd84082f65e2a6618d
 });
 setInterval(() => {
   let r = Math.floor(Math.random() * 256);
